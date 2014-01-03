@@ -32,3 +32,7 @@ $ curl http://localhost:8000/add?value=-2
 13
 ```
 
+You can stop and restart the program (from the same directory) and your data will be persisted.
+
+Cluster configuration is not included in this simple example.
+For a more complete example, please check out the [raftd](https://github.com/goraft/raftd) reference implementation.
