@@ -10,7 +10,7 @@ http://www.gopheracademy.com/writing-a-distributed-system-library
 To run the code, simply `go get` it:
 
 ```sh
-$ go get https://github.com/benbjohnson/writing-a-distributed-systems-library
+$ go get github.com/benbjohnson/writing-a-distributed-systems-library
 ```
 
 And then you can run the executable:
